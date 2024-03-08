@@ -1,0 +1,25 @@
+/* styles.css */
+.custom-text-color {
+    color: #004225;
+  }
+
+/* styles.css */
+.playfair-display-font {
+    font-family: 'Playfair Display', serif;
+  }
+/* styles.css (or your custom stylesheet) */
+.custom-bg-color {
+    background-color: #F5F5DC;
+  }
+/* styles.css (or your custom CSS file) */
+.rubik-font {
+    font-family: 'Rubik', sans-serif; /* Use 'Rubik' or the correct font name if you have it */
+  }
+  .teko-font {
+    font-family: 'Teko', sans-serif; /* Use 'Teko' or the correct font name if you have it */
+  }
+/* styles.css (or your custom CSS file) */
+.anton-font {
+    font-family: 'Anton', sans-serif; /* Use 'Anton' or the correct font name if you have it */
+  }
+         
